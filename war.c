@@ -13,6 +13,7 @@
 // - Foco em: Design de software, modularização, const correctness, lógica de jogo.
 //
 // ============================================================================
+//teste
 
 // Inclusão das bibliotecas padrão necessárias para entrada/saída, alocação de memória, manipulação de strings e tempo.
 
